@@ -47,4 +47,25 @@ const isValidEmail =/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 };
 form.addEventListener("submit", handleSubmit);
 
+//changeImage();
+
+//function changeImage() {
+
+//    if (window.innerWidth < 550) {
+ //       imgPart.src = 'assets/images/illustration-sign-up-mobile.svg';
+ //       console.log('width 💛', window.innerWidth);
+
+ //   } else {
+ //       console.log('width 💜', window.innerWidth);
+ //       imgPart.src = 'assets/images/illustration-sign-up-desktop.svg';
+    }
+
+}
+
+//window.addEventListener('resize', () => {
+ //   console.log('width', window.innerWidth);
+ //   changeImage();
+
+});
+
     
